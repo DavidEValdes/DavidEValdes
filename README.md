@@ -56,6 +56,9 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="Swift" width="40" height="40"/>
   </a>
   <!-- Frameworks -->
+  <a href="https://palletsprojects.com/p/flask/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg" alt="Flask" width="40" height="40"/>
+  </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
   </a>
@@ -71,11 +74,5 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" alt="Tailwind CSS" width="40" height="40"/>
   </a>
-  <!-- Langchain doesn't have an official logo or website available in the common logo repositories. You'd need to add it manually if you have a specific logo and URL in mind. -->
-  <a href="https://palletsprojects.com/p/flask/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg" alt="Flask" width="40" height="40"/>
-  </a>
-  <a href="https://github.com/axios/axios" target="_blank" rel="noreferrer"> <!-- Axios doesn't have an official homepage other than its GitHub repository -->
-    <img src="https://cdn.worldvectorlogo.com/logos/axios.svg" alt="Axios" width="40" height="40"/> <!-- This logo isn't official and is a placeholder, as Axios doesn't have a widely-recognized logo -->
-  </a>
+  
 </p>
