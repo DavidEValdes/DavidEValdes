@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm David Valdes</h1>
-<h3 align="center">A passionate software developer from the University of Central Florida</h3>
+<h3 align="center">A passionate software engineer from the University of Central Florida</h3>
 
 - 🚀 I’m currently working on **securing a summer 2024 internship**
 
