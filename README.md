@@ -3,7 +3,6 @@
 
 - 🚀 I’m currently working on **Developing skills to ensure success during my internship**
 
-- 🌱 I’m currently learning **Intermediate Web Development and Security In Computing**
 
 <!-- - 👯 I’m looking to collaborate on [1](link)
 
