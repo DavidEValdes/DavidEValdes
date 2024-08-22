@@ -3,7 +3,7 @@
 
 - 🚀 I’m currently working on **Applying for 2025 New-Grad Positions**
 
-- 🌱 I’m currently learning Advanced Web Development & Computer Logic & Organization
+- 🌱 I’m currently learning **Advanced Web Development & Computer Logic & Organization**
 <!-- - 👯 I’m looking to collaborate on [1](link)
 
 
